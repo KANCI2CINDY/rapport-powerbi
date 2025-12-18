@@ -53,8 +53,7 @@ Le rapport intègre :
 * une version mobile adaptée pour la consultation sur smartphone.
 Sécurité et publication
 
-Des rôles de sécurité (Row-Level Security) ont été configurés pour restreindre l’accès aux données selon le profil utilisateur.
-Le rapport est prêt à être publié sur **Power BI Service**.
+Le rapport est prêt q été publié sur **Power BI Service**. Voici le lien "https://ecoleit-my.sharepoint.com/:u:/g/personal/110494_ecole-it_com/IQBFW1-BmpH9T592A6dcBLGUAfLy7dQtOA8I3ZPk3oJ1o2o?e=Pgyrxd".
  Fichier du projet
 `rapport_vents_video_formation.pbix` : rapport Power BI complet
 le fichier `.pbix` doit être ouvert avec **Power BI Desktop** pour consulter le tableau de bord.
